@@ -1,0 +1,14 @@
+{
+    "timestamp": [
+        1634083200
+    ],
+    "host": [
+        "host1"
+    ],
+    "request_type": [
+        "metric_name1"
+    ],
+    "value": [
+        123.232
+    ]
+}
